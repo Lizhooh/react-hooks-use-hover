@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-use-hover",
+  "version": "1.0.0",
+  "description": "react hook like css hover.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "author": "lizhooh",
+  "license": "MIT",
+  "keywords": [
+    "react-hooks",
+    "react-hooks-hover",
+    "react-hooks-use-hover",
+    "hooks",
+    "hooks-use-hover",
+    "use-hover"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lizhooh/react-hooks-use-hover"
+  }
+}
