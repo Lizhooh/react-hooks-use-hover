@@ -16,14 +16,14 @@ npm install react@^16.7.0-alpha.0 react-dom@^16.7.0-alpha.0
 
 ```js
 import React from 'react';
-import useBind from 'react-hooks-use-hover';
+import useHover from 'react-hooks-use-hover';
 
 function App() {
     const [hoverRef, isHovered] = useHover();
 
     return (
         <div ref={hoverRef}>
-        {isHovered ? '😁' : '☹️'}
+            {isHovered ? '😁' : '☹️'}
         </div>
     );
 }
